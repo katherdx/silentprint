@@ -1,0 +1,40 @@
+@media print {
+  @page {
+    size: A4;
+  }
+  body * {
+    visibility: hidden;
+  }
+  #printer-content, #printer-content * {
+    visibility: visible;
+  }
+  #printer-content {
+    position: absolute;
+    left: 0;
+    top: 0;
+  }
+}
+Or a Star receipt printer:
+
+@media print {
+  @page {
+    margin: 0;
+  }
+  body * {
+    visibility: hidden;
+  }
+  #printer-content, #printer-content * {
+    visibility: visible;
+  }
+  #printer-content {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 71mm
+    min-width: 71mm;
+    max-width: 71mm;
+    font-size: 12px;
+    font-family: "Courier New", Courier !IMPORTANT;
+    font-weight: 700;
+  }
+}
