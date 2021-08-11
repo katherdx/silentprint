@@ -1,0 +1,82 @@
+Basic OOPs Interview Questions
+What is meant by the term OOPs?
+Its stand for Object-Oriented Programming.
+Its aims to implement real-world entities (system or function) like inheritance, hiding, and polymorphism.
+The main aim of OOP is to bind together the data and the functions that operate on them so that no other part of the code can access this data except that function. 
+
+What, Why, Usage
+•	Access Modifies
+•	Class,
+•	Constructor 
+•	Interface
+•	Object
+•	Function
+•	Variable
+•	Abstraction
+•	Encapsulation
+•	Inheritance
+•	Polymorphism
+o	-overloading
+o	-overriding 
+Exception Handling
+•	Garbage Collection
+•	Basic condition like if, while, switch, do, do while, forloop.
+
+
+
+
+Programs:
+
+•	1) Fibonacci Series.
+•	2) Prime number.
+•	3) Palindrome number.
+•	4) Factorial.
+•	5) Armstrong number.
+•	6) Sum of Digits.
+•	7) Reverse Number.
+•	8) Swap two numbers without using third variable
+•	9) Find Biggest of Three Number.
+•	10) Matrix Multiplication
+•	11) Decimal to Binary
+•	12) Alphabet Triangle
+•	13) Fibonacci Triangle
+
+
+
+Database
+https://www.softwaretestinghelp.com/database-interview-questions/
+
+ #1) What do you understand by ‘Database’?
+Answer: Database is an organized collection of related data where the data is stored and organized to serve some specific purpose.
+For Example, A librarian maintain a database of all the information related to the books that are available in the library.
+
+#2) Define DBMS.
+Answer: DBMS stands for Database Management System. It is a collection of application programs which allow the user to organize, restore and retrieve information about data efficiently and as effectively as possible.
+Some of the popular DBMS’s are MySql, Oracle, Sybase, etc.
+#3) Define RDBMS.
+Answer: Relational Database Management System(RDBMS) is based on a relational model of data that is stored in databases in separate tables and they are related to the use of a common column. Data can be accessed easily from the relational database using Structured Query Language (SQL).
+
+
+What is SQL?
+Answer: Structured Query language is designed specifically for storing and managing the data in the relational database management system (RDBMS) using all kinds of data operations.
+
+Q #16) Explain the terms ‘Record’, ‘Field’ and ‘Table’ in terms of database.
+Answer:
+Record: Record is a collection of values or fields of a specific entity. For Example, An employee, Salary account, etc.
+Field: A field refers to an area within a record that is reserved for specific data. For Example, Employee ID.
+Table: Table is the collection of records of specific types. For Example, the Employee table is a collection of records related to all the employees.
+
+
+Explain usage of KEYS.
+1.	Primary Key.
+2.	Unique Key.
+3.	Candidate Key.
+4.	Alternate Key.
+5.	Composite Key.
+6.	Super Key.
+7.	Foreign Key.
+EXPLAIN SQL JOINS.
+
+
+
+
